@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+<TITLE>CONTACT</TITLE>
+</HEAD>
+<BODY>
+<style>
+#a2{width: 100%; background-color: pink; border-spacing: 2px;}
+#a1 th, td {border: 2px solid black; border-collapse: collapse; padding: 7px;}
+#a1 td {text-align: center;}
+</style>
+<CENTER><img src="Images/Picture1.png" width="1300" height="300">
+</CENTER>
+
+<CENTER><table id="a2">
+<tr>
+<th><font size="20"><a href="Home.html">HOME</a></th>
+<th><font size="20"><a href="About.html">ABOUT</a></th>
+<th><font size="20"><a href="Album.html">ALBUM</a></th>
+<th><font size="20"><a href="Contact.html">CONTACT</a></th></tr>
+</CENTER></TABLE>
+
+<table id="a1">
+<tr>
+<th><font size="10">Cellphone Number</th> <th><font size="10">Gmail</th></tr>
+<tr><td>+639271428171</td> <td>kimberlyloveunana07@gmail.com</td></tr>
+<th><font size="10">Facebook Account Link</th> <th><font size="10">Website Link</th></tr>
+<tr><td><a href="https://dev-kimsite.pantheonsite.io/" target="_blank">Kimberly Love Astrero Unana</a></td> 
+<td><a href="WebSite" target="_blank">...</a></td></tr></table>
+</BODY>
+</HTML>
